@@ -16,7 +16,7 @@ import TheWelcome from './components/TheWelcome.vue'
     <TheWelcome />
   </main>
 -->
-    <HelloWorld msg="so I changed it ?"/>
+    <HelloWorld msg="this would be my portfolio ... "/>
 </template>
 
 <style scoped>
