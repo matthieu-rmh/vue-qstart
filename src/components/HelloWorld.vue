@@ -27,6 +27,8 @@ h1 {
     overflow: hidden;
     white-space: nowrap;
     width: 100%;
+    /* we set steps to 31 as we have a text of 31 charachters including 
+     white-space*/
     animation: type 1.3s steps(31, end);
 }
 
